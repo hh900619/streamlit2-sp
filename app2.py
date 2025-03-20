@@ -2,7 +2,7 @@
 #cd C:\Users\0619h\OneDrive\Desktop\streamlit2-sp
 #git add .
 #git commit -m "改"
-#git push origin master
+#git push origin main
 #8prUe$bf_._gFP5
 
 import streamlit as st
